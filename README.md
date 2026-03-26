@@ -18,6 +18,10 @@ Built upon this foundation, this repository provides the **Vision-Language-Actio
 
 ## Key Technologies
 
+### PhysBrain Data Engine
+
+A scalable pipeline that transforms raw human egocentric video into structured, multimodal embodied training data — annotated with spatial structure, motion feasibility, and causal reasoning chains. This zero-cost approach to **physical commonsense injection** removes the bottleneck of robot-collected data and enables training at unprecedented scale.
+
 ### TwinBrainVLA — Dual-Brain Fusion Architecture
 
 A novel architecture that addresses the industry-wide challenge of **catastrophic forgetting** during embodied fine-tuning. By maintaining a parallel general-purpose brain alongside a task-specific embodied brain, TwinBrainVLA achieves **"generalist-specialist fusion"** — retaining broad semantic understanding while efficiently acquiring domain-specific embodied skills.
@@ -25,10 +29,6 @@ A novel architecture that addresses the industry-wide challenge of **catastrophi
 ### LangForce — Physics-Grounded Training Strategy
 
 A principled training methodology that breaks the **visual shortcut dilemma** in VLA learning through a Bayesian statistical lens. LangForce fundamentally shifts the training objective from behavioral cloning to **physical commonsense acquisition**, enabling the model to reason about and adapt to complex physical scenarios rather than memorizing action sequences.
-
-### PhysBrain Data Engine
-
-A scalable pipeline that transforms raw human egocentric video into structured, multimodal embodied training data — annotated with spatial structure, motion feasibility, and causal reasoning chains. This zero-cost approach to **physical commonsense injection** removes the bottleneck of robot-collected data and enables training at unprecedented scale.
 
 Together, these three technologies form the PhysBrain 1.0 system: **PhysBrain** (base model) × **TwinBrainVLA** (architecture) × **LangForce** (training strategy) — achieving SOTA across multiple embodied intelligence benchmarks with exceptional data efficiency.
 
