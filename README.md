@@ -44,8 +44,7 @@ The current release status is as follows:
 | PhysBrain 1.0 VLA (LIBERO Fine-Tuned)                  | ✅ Available  |
 | PhysBrain 1.0 VLA (SIMPLER WidowX Robot Fine-Tuned)   | ✅ Available  |
 | PhysBrain 1.0 VLA (SIMPLER Google Robot Fine-Tuned)    | ✅ Available  |
-| Inference Code                                         | Coming Soon  |
-| Deployment Code (RoboCasa Fine-Tuned)                 | ✅ Available  |
+| Inference Code                                         | ✅ Available  |
 
 ## Getting Started
 
