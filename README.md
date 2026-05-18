@@ -74,6 +74,16 @@ If you find PhysBrain useful in your research, please consider citing our work:
       primaryClass={cs.RO},
       url={https://arxiv.org/abs/2512.16793}, 
 }
+
+@misc{physbrain10technicalreport,
+      title={PhysBrain 1.0 Technical Report}, 
+      author={Shijie Lian and Bin Yu and Xiaopeng Lin and Changti Wu and Hang Yuan and Xiaolin Hu and Zhaolong Shen and Yuzhuo Miao and Haishan Liu and Yuxuan Tian and Yukun Shi and Cong Huang and Kai Chen},
+      year={2026},
+      eprint={2605.15298},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2605.15298}, 
+}
 ```
 
 ## License
